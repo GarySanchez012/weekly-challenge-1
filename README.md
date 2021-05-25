@@ -1,1 +1,0 @@
-# weekly-challenge-1
