@@ -30,4 +30,4 @@ GIVEN a webpage meets accessibility standards
 
 ![screenshot of website](./assets/images/screenshot.png "the Hero of the website")
 
-https://garysanchez012.github.io/weekly-challenge-1/
+https://garysanchez012.github.io/weekly-challenge-1-Horiseon/
