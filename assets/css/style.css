@@ -1,3 +1,4 @@
+/* universal selector */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -8,6 +9,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* anchor tag won't have an underline thanks to 'text decoration: none' */
 a {
   color: #ffffff;
   text-decoration: none;
@@ -17,6 +19,8 @@ p {
   font-size: 16px;
 }
 
+/* the multiple font families allows for fallback fonts if preceding ones don't load */
+/* beginning of header including the navigation links */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -51,7 +55,9 @@ p {
   display: inline-block;
   margin-left: 25px;
 }
+/* end of header including the navigation links */
 
+/* used url to load image from relative file rather than img tag in html  */
 .hero {
   height: 800px;
   width: 100%;
@@ -61,6 +67,7 @@ p {
   background-position: center;
 }
 
+be
 .content {
   width: 75%;
   display: inline-block;
