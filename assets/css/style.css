@@ -67,7 +67,7 @@ p {
   background-position: center;
 }
 
-be
+/* start of content explaining the pros of mobile friendly content and how to market it  */
 .content {
   width: 75%;
   display: inline-block;
@@ -127,7 +127,9 @@ be
   margin-bottom: 20px;
   font-size: 36px;
 }
+/* end of content explaining the pros of mobile friendly content and how to market it  */
 
+/* start of support css  */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -137,7 +139,9 @@ be
   float: right;
   margin-left: 25px;
 }
+/* end of support css  */
 
+/* start of benefits to mobile marketing  */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -196,7 +200,9 @@ be
   margin: 10px auto;
   max-width: 150px;
 }
+/* end of benefits to mobile marketing  */
 
+/* start of footer  */
 .footer {
   padding: 30px;
   clear: both;
@@ -208,3 +214,4 @@ be
 .footer h2 {
   font-size: 20px;
 }
+/* end of footer  */
